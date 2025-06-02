@@ -1,0 +1,11 @@
+[versions]
+androidGradlePlugin = "8.8.2"
+kotlin = "2.0.21"
+asmUtil = "9.7.1"
+
+[libraries]
+android-gradlePlugin-api = { group = "com.android.tools.build", name = "gradle-api", version.ref = "androidGradlePlugin" }
+asm-util = { module = "org.ow2.asm:asm-util", version.ref = "asmUtil" }
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
