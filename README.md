@@ -1,6 +1,6 @@
 # Bytecode Manipulation - click count
 ## 발표 자료
-발표 자료 : [링크](https://docs.google.com/presentation/d/1f6Gi2Y9_pL3A-zCREYZun_v8giLsT5X3/edit?usp=sharing&ouid=100132712316395036982&rtpof=true&sd=true)
+발표 자료 : [링크](https://speakerdeck.com/bigstark/bytecode-manipulation-euro-saengsanseong-nopigi)
 
 ### 사전 준비
 1. composable click log plugin 을 빌드하여 maven local 에 publish 
